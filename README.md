@@ -1,2 +1,2 @@
-# Project-Turtle
-Turtle implementation
+# Applied Market analysis
+association rule algorithm
